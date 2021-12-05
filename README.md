@@ -1017,7 +1017,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 </p>
 
 # Windows Terminal Development
-[Back to the Top](https://github.com/mikeroyal/Alpine_linux-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Alpine-Linux-Guide#table-of-contents)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/143783124-dd11fd52-acd5-4e43-9f0e-e456e2efc303.png">
