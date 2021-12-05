@@ -15,7 +15,7 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mikeroyal/Alpine-Linux-Guide#getting-started)
+1. [Getting Started with Alpine Linux](https://github.com/mikeroyal/Alpine-Linux-Guide#getting-started-with-alpine-linux)
 
 2. [Azure Development](https://github.com/mikeroyal/Alpine-Linux-Guide#azure-development)
 
@@ -33,13 +33,13 @@
 
 9. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Alpine-Linux-Guide#windows-subsystem-for-linux-wsl)
 
-10. [Windows Terminal Development](https://github.com/mikeroyal/Alpine-Linux-Guide#)
+10. [Windows Terminal Development](https://github.com/mikeroyal/Alpine-Linux-Guide#windows-terminal-development)
 
 11. [Networking](https://github.com/mikeroyal/Alpine-Linux-Guide#networking)
 
 12. [Databases](https://github.com/mikeroyal/Alpine-Linux-Guide#databases)
 
-# Getting Started
+# Getting Started with Alpine Linux
 [Back to the Top](https://github.com/mikeroyal/Alpine-Linux-Guide#table-of-contents)
 
 [Alpine Linux](https://www.alpinelinux.org/) is a security-oriented, lightweight Linux distribution based on musl libc and busybox.
@@ -80,8 +80,6 @@ Enable the [Community repository](https://wiki.alpinelinux.org/wiki/Enable_Commu
  <img src="https://user-images.githubusercontent.com/45159366/143783606-58f4f708-dfe3-40f5-b9e3-c737479dc320.png">
   <br />
 </p>
-
-**[Visual Studio Code Azure Extensions](https://code.visualstudio.com/docs/azure/extensions)**
 
 ## Azure Learning Resources
 
@@ -267,8 +265,6 @@ Enable the [Community repository](https://wiki.alpinelinux.org/wiki/Enable_Commu
   <br />
 </p>
 
-**[AWS Toolkit for Visual Studio Code](https://aws.amazon.com/visualstudiocode/)**
-
 ## AWS Learning Resources
 
 [Amazon Web Services](https://aws.amazon.com/about-aws/) is a reliable, scalable, and inexpensive on-demand cloud computing platforms, services and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis.
@@ -417,8 +413,6 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
   <br />
 </p>
 
-**[Cloud Code for VS Code extension](https://cloud.google.com/code/docs/vscode/install)**
-
 ## Google Cloud Learning Resources
 
 [Google Cloud Platform] is a public cloud platform that lets you build, deploy, and scale applications, websites, and services on the same infrastructure as Google.
@@ -505,8 +499,6 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
  <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
   <br />
 </p>
-
-**[Working with Kubernetes in Visual Studio Code](https://code.visualstudio.com/docs/azure/kubernetes)**
 
 <img src="https://user-images.githubusercontent.com/45159366/105645195-db9ea780-5e4e-11eb-8357-fb38b2f06d74.png">
 
@@ -658,10 +650,6 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
   <br />
 </p>
 
-**[Get started with Docker using Visual Studio Code](https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial)**
-
-**[Developing inside a Container with Visual Studio Code](https://code.visualstudio.com/docs/remote/containers)**
-
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/113521413-2ffc8c80-954e-11eb-9d19-b9c996bc524b.png">
   <br />
@@ -733,8 +721,6 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
   <br />
 </p>
 
-**[Ansible VS Code Extension](https://marketplace.visualstudio.com/items?itemName=tomaciazek.ansible)**
-
 ## Ansible Learning Resources
 
 [Ansible](https://www.ansible.com/) is a simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs. It uses a very simple language (YAML, in the form of Ansible Playbooks) that allows you to describe your automation jobs in a way that approaches plain English. Anisble works on Linux (Red Hat EnterPrise Linux(RHEL) and Ubuntu) and Microsoft Windows.
@@ -805,8 +791,6 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
  <img src="https://user-images.githubusercontent.com/45159366/121819653-245ecd80-cc43-11eb-950a-cb4db09481b6.png">
   <br />
 </p>
-
-**[HashiCorp Terraform Visual Studio Code (VS Code) extension](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)**
 
 ## Terraform Learning Resources
 
